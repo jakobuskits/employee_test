@@ -1,0 +1,29 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Jakobus Kits",
+      "employeeTypeId": 2
+    },
+    {
+      "id": 2,
+      "name": "Quintin Nel",
+      "employeeTypeId": 1
+    },
+    {
+      "id": 3,
+      "name": "Ethan Wernich",
+      "employeeTypeId": 2
+    }
+  ],
+  "employeeTypes": [
+    {
+      "id": 1,
+      "name": "Assistant to the regional manager"
+    },
+    {
+      "id": 2,
+      "name": "Sales"
+    }
+  ]
+}
