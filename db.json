@@ -1,106 +1,104 @@
 {
   "employees": [
     {
-      "Id": 1,
-      "FirstName": "Jakobus",
-      "LastName": "Kits",
-      "PhoneNumber": "123-456-7890",
-      "IsActive": true,
-      "DateOfBirth": "1990-05-15",
-      "EmployeeTypeId": 2
+      "id": 1,
+      "firstName": "Jakobus",
+      "lastName": "Kits",
+      "phoneNumber": "123-456-7890",
+      "isActive": true,
+      "dateOfBirth": "1990-05-15",
+      "employeeTypeId": 2
     },
     {
-      "Id": 2,
-      "FirstName": "Quintin",
-      "LastName": "Nel",
-      "PhoneNumber": "987-654-3210",
-      "IsActive": true,
-      "DateOfBirth": "1985-08-22",
-      "EmployeeTypeId": 1
+      "id": 2,
+      "firstName": "Quintin",
+      "lastName": "Nel",
+      "phoneNumber": "987-654-3210",
+      "isActive": true,
+      "dateOfBirth": "1985-08-22",
+      "employeeTypeId": 1
     },
     {
-      "Id": 3,
-      "FirstName": "Ethan",
-      "LastName": "Wernich",
-      "PhoneNumber": "555-123-4567",
-      "IsActive": false,
-      "DateOfBirth": "1993-12-10",
-      "EmployeeTypeId": 2
-    },
-    // Add 10 dummy data entries below
-    {
-      "Id": 4,
-      "FirstName": "Amanda",
-      "LastName": "Smith",
-      "PhoneNumber": "111-222-3333",
-      "IsActive": true,
-      "DateOfBirth": "1988-04-05",
-      "EmployeeTypeId": 1
+      "id": 3,
+      "firstName": "Ethan",
+      "lastName": "Wernich",
+      "phoneNumber": "555-123-4567",
+      "isActive": false,
+      "dateOfBirth": "1993-12-10",
+      "employeeTypeId": 2
     },
     {
-      "Id": 5,
-      "FirstName": "John",
-      "LastName": "Doe",
-      "PhoneNumber": "444-555-6666",
-      "IsActive": true,
-      "DateOfBirth": "1995-09-18",
-      "EmployeeTypeId": 2
-    },
-    // Add 8 more dummy data entries below
-    {
-      "Id": 6,
-      "FirstName": "Emily",
-      "LastName": "Johnson",
-      "PhoneNumber": "777-888-9999",
-      "IsActive": false,
-      "DateOfBirth": "1992-07-12",
-      "EmployeeTypeId": 1
+      "id": 4,
+      "firstName": "Amanda",
+      "lastName": "Smith",
+      "phoneNumber": "111-222-3333",
+      "isActive": true,
+      "dateOfBirth": "1988-04-05",
+      "employeeTypeId": 1
     },
     {
-      "Id": 7,
-      "FirstName": "Michael",
-      "LastName": "Miller",
-      "PhoneNumber": "333-444-5555",
-      "IsActive": true,
-      "DateOfBirth": "1987-02-28",
-      "EmployeeTypeId": 2
+      "id": 5,
+      "firstName": "John",
+      "lastName": "Doe",
+      "phoneNumber": "444-555-6666",
+      "isActive": true,
+      "dateOfBirth": "1995-09-18",
+      "employeeTypeId": 2
     },
     {
-      "Id": 8,
-      "FirstName": "Sophia",
-      "LastName": "Brown",
-      "PhoneNumber": "666-777-8888",
-      "IsActive": false,
-      "DateOfBirth": "1998-11-03",
-      "EmployeeTypeId": 1
+      "id": 6,
+      "firstName": "Emily",
+      "lastName": "Johnson",
+      "phoneNumber": "777-888-9999",
+      "isActive": false,
+      "dateOfBirth": "1992-07-12",
+      "employeeTypeId": 1
     },
     {
-      "Id": 9,
-      "FirstName": "Daniel",
-      "LastName": "Taylor",
-      "PhoneNumber": "999-111-2222",
-      "IsActive": true,
-      "DateOfBirth": "1991-06-25",
-      "EmployeeTypeId": 2
+      "id": 7,
+      "firstName": "Michael",
+      "lastName": "Miller",
+      "phoneNumber": "333-444-5555",
+      "isActive": true,
+      "dateOfBirth": "1987-02-28",
+      "employeeTypeId": 2
     },
     {
-      "Id": 10,
-      "FirstName": "Olivia",
-      "LastName": "Clark",
-      "PhoneNumber": "222-333-4444",
-      "IsActive": true,
-      "DateOfBirth": "1984-03-15",
-      "EmployeeTypeId": 1
+      "id": 8,
+      "firstName": "Sophia",
+      "lastName": "Brown",
+      "phoneNumber": "666-777-8888",
+      "isActive": false,
+      "dateOfBirth": "1998-11-03",
+      "employeeTypeId": 1
+    },
+    {
+      "id": 9,
+      "firstName": "Daniel",
+      "lastName": "Taylor",
+      "phoneNumber": "999-111-2222",
+      "isActive": true,
+      "dateOfBirth": "1991-06-25",
+      "employeeTypeId": 2
+    },
+    {
+      "id": 10,
+      "firstName": "Olivia",
+      "lastName": "Clark",
+      "phoneNumber": "222-333-4444",
+      "isActive": true,
+      "dateOfBirth": "1984-03-15",
+      "employeeTypeId": 1
     }
   ],
   "employeeTypes": [
     {
-      "Id": 1,
-      "Name": "Assistant to the regional manager"
+      "id": 1,
+      "name": "Assistant to the regional manager"
     },
     {
-      "Id": 2,
-      "Name": "Sales"
+      "id": 2,
+      "name": "Sales"
     }
   ]
 }
